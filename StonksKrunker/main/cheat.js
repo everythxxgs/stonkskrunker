@@ -974,7 +974,7 @@ Node.prototype.appendChild = function appendChild(c) {
             style: (_0x487143) => '<style>' + _0x487143 + '</style>',
           };
           let _0x2d73bc =
-            '<div id="settHolder">\n<img src="https://raw.githubusercontent.com/MJMODZZ/Krunkercentral/main/Dogeware%20Extension/main/banner/Krunkercentral_Banner.png" width="90%">\n<div class="imageButton discordSocial" onmouseenter="playTick()" onclick="openURL(\'https://krunkercentral.com/\')"><span style=\'display:inline\'></span></div>';
+            '<div id="settHolder">\n<img src="https://github.com/everythxxgs/stonkskrunker/blob/main/StonksKrunker/main/banner/Krunkercentral_Banner.png" width="90%">\n<div class="imageButton discordSocial" onmouseenter="playTick()" onclick="openURL(\'https://krunkercentral.com/\')"><span style=\'display:inline\'></span></div>';
           Object.keys(_0x4988fb).forEach((_0x1e4d6c) => {
             const _0x29644a = _0x4988fb[_0x1e4d6c];
             _0x4988fb[_0x1e4d6c] = function () {
